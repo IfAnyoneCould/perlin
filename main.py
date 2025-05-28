@@ -1,4 +1,4 @@
-from test import *
+from perlin import *
 import matplotlib.pyplot as plt
 import numpy as np
 
